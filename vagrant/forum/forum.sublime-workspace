@@ -1,0 +1,1338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temp",
+				"template"
+			],
+			[
+				"s",
+				"src='backbone"
+			],
+			[
+				"mar",
+				"marker"
+			],
+			[
+				"mare",
+				"markerList"
+			],
+			[
+				"map",
+				"map〔variable〕"
+			],
+			[
+				"item",
+				"itemLoc"
+			],
+			[
+				"markerItme",
+				"markerItem"
+			],
+			[
+				"marker",
+				"markerList"
+			],
+			[
+				"mapV",
+				"mapValue"
+			],
+			[
+				"mark",
+				"marker	(map-data.js)"
+			],
+			[
+				"ma",
+				"marker"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"make",
+				"makeMarker"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"list",
+				"listItem"
+			],
+			[
+				"ini",
+				"initMap"
+			],
+			[
+				"init",
+				"initMap	(app.js)"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"filt",
+				"filter〔variable〕"
+			],
+			[
+				"loc",
+				"locItem"
+			],
+			[
+				"View",
+				"ViewModel"
+			],
+			[
+				"obser",
+				"observable"
+			],
+			[
+				"observ",
+				"observableArray"
+			],
+			[
+				"fi",
+				"filteredLocations"
+			],
+			[
+				"locatoin",
+				"locationData"
+			],
+			[
+				"cat",
+				"catNamesbuttons"
+			],
+			[
+				"NAME",
+				"NAMESPACE"
+			],
+			[
+				"local",
+				"localNameSpace"
+			],
+			[
+				"prop",
+				"propName"
+			],
+			[
+				"index",
+				"indexToDisplay"
+			],
+			[
+				"cli",
+				"clicksCount"
+			],
+			[
+				"num",
+				"numOfClicks"
+			],
+			[
+				"data",
+				"dataProperty"
+			],
+			[
+				"giv",
+				"giveButtonsNames"
+			],
+			[
+				"but",
+				"buttons"
+			],
+			[
+				"render",
+				"renderElement"
+			],
+			[
+				"instanc",
+				"instanceof〔keyword〕"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"catD",
+				"catDisplay	(index.jade)"
+			],
+			[
+				"clik",
+				"clicks-mvo.js"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"jpg",
+				"jpg"
+			],
+			[
+				"bl",
+				"blef/"
+			],
+			[
+				"ph",
+				"photogallery/"
+			],
+			[
+				"ass",
+				"assets/"
+			],
+			[
+				"mag",
+				"magnific-popup.css"
+			],
+			[
+				"mpop",
+				"mpop-up"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"хир",
+				"хирурге"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"feedback",
+				"feedback-styles.sass"
+			],
+			[
+				"span",
+				"span"
+			],
+			[
+				"lig",
+				"lighten	(_vars.sass)"
+			],
+			[
+				"justify",
+				"justify-content"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"borderr",
+				"border-right"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"cent",
+				"center	(index.jade)"
+			],
+			[
+				"out",
+				"outer	outer-container"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"im",
+				"imtest"
+			],
+			[
+				"part",
+				"parts/"
+			],
+			[
+				"ea",
+				"ear.png	w:132 h:206"
+			],
+			[
+				"no",
+				"nose.png	w:305 h:297"
+			],
+			[
+				"e",
+				"eye.png	w:304 h:296"
+			],
+			[
+				"to",
+				"top-face.png	w:292 h:292"
+			],
+			[
+				"img",
+				"img/"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"frie",
+				"friend"
+			],
+			[
+				"create",
+				"createFriend"
+			],
+			[
+				"crea",
+				"createFriend"
+			],
+			[
+				"fri",
+				"friendsArray	(app.js)"
+			],
+			[
+				"frien",
+				"friend"
+			],
+			[
+				"fr",
+				"friend"
+			],
+			[
+				"friends",
+				"friendsArray"
+			],
+			[
+				"fir",
+				"friendTimer"
+			],
+			[
+				"all",
+				"allEnemies"
+			],
+			[
+				"enem",
+				"enemyNumberTotal"
+			],
+			[
+				"ene",
+				"enemyNumberTotal"
+			],
+			[
+				"enemy",
+				"enemyNumberTotal"
+			],
+			[
+				"bug",
+				"bugsRenderred"
+			],
+			[
+				"cha",
+				"char-princess-girl"
+			],
+			[
+				"sp",
+				"sprite"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"plya",
+				"playerTypes"
+			],
+			[
+				"rand",
+				"randomInteger"
+			],
+			[
+				"game",
+				"gameStart"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "forum.py",
+			"settings":
+			{
+				"buffer_size": 3127,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "def lightweights(cursor):\n    \"\"\"Returns a list of the players in the db whose weight is less than the average.\"\"\"\n    # cursor.execute(\"select avg(weight) as av from players;\")\n    # av = cursor.fetchall()[0][0]  # first column of first (and only) row\n    cursor.execute(\"select name, weight from players, (select avg(weight) as av from players) as sub where weight < av\")\n    return cursor.fetchall()\n\n# we used joined tables from the same table\n",
+			"file": "subq_example.py",
+			"file_size": 407,
+			"file_write_time": 131160424518498635,
+			"settings":
+			{
+				"buffer_size": 448,
+				"line_ending": "Windows",
+				"name": "def lightweights(cursor):"
+			}
+		},
+		{
+			"file": "/C/Users/Victor/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"trim",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"pref",
+				"Preferences: Settings - Default"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"USER",
+				"Preferences: Settings - User"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"git di",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"package lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"git i",
+				"Gitignore: New gitignore"
+			],
+			[
+				"white",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"whi",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Victor/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/Yandex.Disk/database/fullstack-nanodegree-vm/vagrant/pg_config.sh",
+		"/F/Yandex.Disk/database/fullstack-nanodegree-vm/README.md",
+		"/F/Yandex.Disk/backend course/engineapp/main.py",
+		"/F/Yandex.Disk/Angular/Angular.md",
+		"/C/Users/Victor/AppData/Local/Temp/Temp1_webpack-fundamentals.zip/3-webpack-fundamentals-m3-exercise-files/finished/2-webpack-es6-modules/webpack.config.js",
+		"/F/Yandex.Disk/udacity/bb_test/package.json",
+		"/F/Yandex.Disk/udacity/Ucourse_AutomationTools/gulpfile.js",
+		"/F/Yandex.Disk/site3/Prepros Build/assets/js/pop-up.js",
+		"/C/Users/Victor/Downloads/post-5465370-0-51052300-1458122777/res_mods/0.9.14/scripts/client/gui/mods/mod_zessm.xml",
+		"/F/Yandex.Disk/udacity/P6-2/index.jade",
+		"/C/Users/Victor/AppData/Local/Temp/Temp1_jsmvc-pres-master.zip/jsmvc-pres-master/empty-projects/bb-todo/js/views.js",
+		"/C/Users/Victor/AppData/Local/Temp/Temp1_129053_3sm05.zip/yanky2000-P7_FeedReader_Testing-fb1ebbf/README.md",
+		"/F/Yandex.Disk/udacity/P6-2/2.js",
+		"/F/Yandex.Disk/udacity/P6-2/.bowerrc",
+		"/F/Yandex.Disk/udacity/frontend-nanodegree-resume/index.html",
+		"/F/Yandex.Disk/site3/includes/molecules/feedback-form.jade",
+		"/C/Users/Victor/Documents/Udacity-P6/js/main.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/F/Yandex.Disk/site3/index.jade",
+		"/F/Yandex.Disk/udacity/Udacity-P6/Prepros Build/js/main.js",
+		"/F/Yandex.Disk/udacity/Udacity-P6/Prepros Build/js/map-data.js",
+		"/F/Yandex.Disk/udacity/Udacity-P6/README.md",
+		"/F/Yandex.Disk/udacity/Udacity-P6/js/out/scripts/linenumber.js",
+		"/F/Yandex.Disk/udacity/Udacity-P6/assets/js/classie-master/classie.js",
+		"/F/Yandex.Disk/site3/includes/layout/main-template.jade",
+		"/C/Users/Victor/Downloads/ud989-todo-app-master/ud989-todo-app-master/js/views/app-view.js",
+		"/F/Yandex.Disk/karbamid/www/index.html",
+		"/F/Yandex.Disk/udacity/P6-Neighborhood map/index.jade",
+		"/F/Yandex.Disk/udacity/P6-Neighborhood map/js/app.js",
+		"/F/Yandex.Disk/udacity/P6-Neighborhood map/js/map-data.js",
+		"/C/Users/Victor/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Victor/Downloads/P5-Neighborhood_Map_Project-master/index.html",
+		"/C/Users/Victor/Downloads/ud989-todo-app-master/ud989-todo-app-master/js/models/todo.js",
+		"/C/Users/Victor/Downloads/ud989-todo-app-master/ud989-todo-app-master/js/views/todo-view.js",
+		"/F/Yandex.Disk/udacity/P6-Neighborhood map/js/app.coffee",
+		"/F/Yandex.Disk/udacity/P6-Neighborhood map/README.md",
+		"/F/Yandex.Disk/udacity/JS design patterns/ud989-cat-clicker-ko-starter-master/js/app.js",
+		"/F/Yandex.Disk/udacity/P6-Neighborhood map/css/styles.sass",
+		"/F/Yandex.Disk/udacity/P6-Neighborhood map/index.html",
+		"/F/Yandex.Disk/udacity/JS design patterns/ud989-cat-clicker-ko-starter-master/index.html",
+		"/F/Yandex.Disk/udacity/catclicker/js/clicks-mvo.coffee",
+		"/F/Yandex.Disk/udacity/catclicker/index.jade",
+		"/F/Yandex.Disk/udacity/catclicker/new-style.sass",
+		"/F/Yandex.Disk/udacity/catclicker/styles.css",
+		"/F/Yandex.Disk/udacity/Notes best practices JS.js",
+		"/F/Yandex.Disk/udacity/catclicker/new-style.css",
+		"/C/Users/Victor/AppData/Local/Temp/Temp1_ud989-cat-clicker-premium-vanilla-master.zip/ud989-cat-clicker-premium-vanilla-master/js/app.js",
+		"/F/Yandex.Disk/udacity/catclicker/index.html",
+		"/F/Yandex.Disk/udacity/catclicker/js/clicks-mvo.js",
+		"/F/Yandex.Disk/udacity/Project-Part-3-Start/Gruntfile.js",
+		"/F/Yandex.Disk/site3/assets/css/about.sass",
+		"/F/Yandex.Disk/site3/faq.jade",
+		"/F/Yandex.Disk/site3/assets/js/pop-up.js",
+		"/F/Yandex.Disk/site3/assets/css/tools/mpop-up/jquery.magnific-popup.js",
+		"/F/Yandex.Disk/site3/assets/css/test/test.css",
+		"/F/Yandex.Disk/site3/photogallery2.jade",
+		"/F/Yandex.Disk/site3/includes/header.jade",
+		"/F/Yandex.Disk/site3/photogallery.jade",
+		"/F/Yandex.Disk/site3/assets/css/layout/header.sass",
+		"/F/Yandex.Disk/site3/assets/js/v-tabs.js",
+		"/F/Yandex.Disk/site3/assets/js/h-tabs.js",
+		"/F/Yandex.Disk/site3/includes/footer.jade",
+		"/F/Yandex.Disk/site3/includes/molecules/faq-scroll-list.jade",
+		"/F/Yandex.Disk/site3/includes/layout/faq-template.jade",
+		"/F/Yandex.Disk/site3/contacts.jade",
+		"/F/Yandex.Disk/site3/assets/js/functions.js",
+		"/F/Yandex.Disk/site3/assets/css/base/_vars.sass",
+		"/F/Yandex.Disk/site3/about.jade",
+		"/F/Yandex.Disk/site3/assets/css/base/_buttons.scss",
+		"/F/Yandex.Disk/site3/includes/molecules/doctor-photo-card.jade",
+		"/F/Yandex.Disk/site3/assets/js/scroll-on-page.js",
+		"/F/Yandex.Disk/site3/assets/css/grid-settings.sass",
+		"/F/Yandex.Disk/site3/includes/molecules/map.jade",
+		"/F/Yandex.Disk/site3/assets/css/home.sass",
+		"/F/Yandex.Disk/site3/assets/css/layout/feedback-styles.sass",
+		"/F/Yandex.Disk/site3/includes/organisms/aside-doctor.jade",
+		"/F/Yandex.Disk/site3/includes/atoms/procedures.jade",
+		"/F/Yandex.Disk/site3/assets/css/layout/footer.sass",
+		"/F/Yandex.Disk/site3/assets/css/about.css",
+		"/F/Yandex.Disk/site3/assets/css/layout/home.sass",
+		"/F/Yandex.Disk/site3/includes/section-feedback.jade",
+		"/F/Yandex.Disk/site3/includes/feedback-form.jade",
+		"/F/Yandex.Disk/site3/includes/feedback-script.jade",
+		"/F/Yandex.Disk/site3/.include/procedures.jade",
+		"/F/Yandex.Disk/site3/assets/css/header.sass",
+		"/F/Yandex.Disk/exchange/2/main2.jade",
+		"/F/Yandex.Disk/site3/assets/css/grid-settings2.sass",
+		"/F/Yandex.Disk/site3/assets/css/base/_vars.scss",
+		"/F/Yandex.Disk/exchange/2/main.jade",
+		"/F/Yandex.Disk/site3/assets/css/master.sass",
+		"/F/Yandex.Disk/exchange/index.jade",
+		"/F/Yandex.Disk/site3/assets/css/test.sass",
+		"/C/Users/Victor/AppData/Roaming/Sublime Text 3/Packages/JSHint/README.md",
+		"/F/Yandex.Disk/site3/assets/css/master.css",
+		"/C/Users/Victor/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/F/Yandex.Disk/site3/assets/css/bourbon/css3/_font-face.scss",
+		"/F/Yandex.Disk/site3/css/master.sass",
+		"/F/Yandex.Disk/testsite/main.css",
+		"/F/Yandex.Disk/testsite/index.html",
+		"/F/Yandex.Disk/testsite/index.jade",
+		"/F/Yandex.Disk/site3/index.html",
+		"/F/Yandex.Disk/site3/prepros.cfg",
+		"/F/Yandex.Disk/site2/index.jade",
+		"/C/Users/Victor/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Victor/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/F/Yandex.Disk/udacity/Notes browser opt.md",
+		"/F/Yandex.Disk/Photoshop-notes.md",
+		"/C/Users/Victor/Desktop/1193-1187-7544-0706-5290-3321",
+		"/F/Victor/2/Fireworks.CS6/install notes",
+		"/F/Yandex.Disk/udacity/browser opt/frontend-nanodegree-mobile-portfolio/index.html",
+		"/C/Users/Victor/Downloads/PTSansWeb/PTC55F_stylesheet.css",
+		"/F/Yandex.Disk/udacity/browser opt/quiz1.html",
+		"/F/Yandex.Disk/udacity/js-opt-quiz.js",
+		"/F/Yandex.Disk/udacity/browser opt/web-workers-demo/scripts/imageManips.js",
+		"/F/Yandex.Disk/udacity/browser opt/web-workers-demo/scripts/image-app.js",
+		"/F/Yandex.Disk/udacity/browser opt/web-workers-demo/scripts/worker.js",
+		"/F/Yandex.Disk/udacity/browser opt/web-workers-demo/index.html",
+		"/F/Yandex.Disk/udacity/browser opt/web-workers-demo/scripts/time-animator.js",
+		"/F/frontend-nanodegree-arcade-game/js/engine.js",
+		"/F/frontend-nanodegree-arcade-game/js/app.js",
+		"/F/frontend-nanodegree-arcade-game/js/TodoReview",
+		"/F/YandexDisk/udacity/frontend-nanodegree-arcade-game/js/app.js",
+		"/C/Users/Victor/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"valid_day",
+			" ",
+			" ",
+			"markerList",
+			"marker",
+			"listItem",
+			";",
+			"data",
+			";",
+			"localNameSpace",
+			"view",
+			"Datainit",
+			"dataInit",
+			"renderDisplay",
+			"render",
+			"renderDisplay",
+			"addClicks",
+			"changeCat",
+			"jpg",
+			"}",
+			"{",
+			";",
+			"}",
+			"{",
+			";",
+			"}",
+			"{",
+			"right",
+			"faq",
+			"contac",
+			"conta",
+			";",
+			"}",
+			"{",
+			"tab",
+			"space",
+			"h3",
+			"h2",
+			"хирурге",
+			"last",
+			"Специализация",
+			"h2",
+			"{",
+			"}",
+			"{",
+			";",
+			"{",
+			"}",
+			"%\n",
+			"p",
+			"br",
+			"20px",
+			"left",
+			"padding",
+			"a",
+			"  ",
+			"a: ",
+			"li",
+			"0",
+			"35px",
+			"font-face",
+			"font",
+			"display",
+			"display: none",
+			"hover",
+			"1",
+			"h1",
+			"scheme",
+			"font-family",
+			"img/parts",
+			"assets",
+			"/img",
+			"img",
+			"/img",
+			"h2",
+			"h1",
+			"2.5em",
+			"list-style-type",
+			"frien"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "forum.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								527,
+								527
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										587,
+										588
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										502,
+										503
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "subq_example.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								448,
+								448
+							]
+						],
+						"settings":
+						{
+							"auto_name": "def lightweights(cursor):",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Victor/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										273,
+										274
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "forum.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mvo",
+				"catclicker\\js\\clicks-mvo.coffee"
+			],
+			[
+				"new",
+				"catclicker\\new-style.sass"
+			],
+			[
+				"style",
+				"catclicker\\styles.css"
+			],
+			[
+				"index",
+				"catclicker\\index.jade"
+			],
+			[
+				"s",
+				"catclicker\\styles.css"
+			],
+			[
+				"feed",
+				"site3\\includes\\molecules\\feedback-form.jade"
+			],
+			[
+				"about",
+				"site3\\assets\\css\\about.sass"
+			],
+			[
+				"header",
+				"site3\\includes\\header.jade"
+			],
+			[
+				"faq",
+				"site3\\faq.jade"
+			],
+			[
+				"footer",
+				"site3\\includes\\footer.jade"
+			],
+			[
+				"vars",
+				"site3\\assets\\css\\base\\_vars.sass"
+			],
+			[
+				"heas",
+				"site3\\assets\\css\\layout\\header.sass"
+			],
+			[
+				"grid",
+				"site3\\assets\\css\\grid-settings.sass"
+			],
+			[
+				"conta",
+				"site3\\contacts.jade"
+			],
+			[
+				"footer.j",
+				"site3\\includes\\footer.jade"
+			],
+			[
+				"about.sa",
+				"site3\\assets\\css\\about.sass"
+			],
+			[
+				"about.ja",
+				"site3\\about.jade"
+			],
+			[
+				"main",
+				"site3\\assets\\css\\main.sass"
+			],
+			[
+				"abou",
+				"site3\\about.jade"
+			],
+			[
+				"index.",
+				"site3\\index.jade"
+			],
+			[
+				"gri",
+				"site3\\assets\\css\\grid-settings.sass"
+			],
+			[
+				"head",
+				"site3\\assets\\css\\header.sass"
+			],
+			[
+				"font-face",
+				"site3\\assets\\css\\bourbon\\css3\\_font-face.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 145.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

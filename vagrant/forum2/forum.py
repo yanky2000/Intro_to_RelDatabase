@@ -15,7 +15,7 @@ HTML_WRAP = '''\
 <!DOCTYPE html>
 <html>
   <head>
-    <title>DB Forum22</title>
+    <title>DB Forum</title>
     <style>
       h1, form { text-align: center; }
       textarea { width: 400px; height: 100px; }

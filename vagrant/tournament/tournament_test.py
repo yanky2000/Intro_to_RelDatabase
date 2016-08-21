@@ -15,13 +15,23 @@ def testCount():
              player count after players deleted.
     """
     deleteMatches()
+
     deletePlayers()
+    dd = connect()
+    s = dd.cursor()
+    s.execute("select * from matches")
+    print "MATCHES AFTER DELETION IS :", s.fetchall()
+    s.execute("select * from players")
+    print "PLAYERS AFTER DELETION IS :", s.fetchall()
+    dd.close()
+
     c = countPlayers()
+    print "VALUE OF CountPlayers: ", c
     if c == '0':
         raise TypeError(
             "countPlayers should return numeric zero, not string '0'.")
     if c != 0:
-        raise ValueError("After deletion, countPlayers should return zero.")
+        raise ValueError("After deletion, countPlayers should return zero!!!!!!.")
     print "1. countPlayers() returns 0 after initial deletePlayers() execution."
     registerPlayer("Chandra Nalaar")
     c = countPlayers()
@@ -80,10 +90,13 @@ def testReportMatches():
     registerPlayer("Cathy Burton")
     registerPlayer("Diane Grant")
     standings = playerStandings()
+    # print "STANDINGS BEFORE: ", standings
     [id1, id2, id3, id4] = [row[0] for row in standings]
     reportMatch(id1, id2)
+    # print "after 1 match: ", playerStandings()
     reportMatch(id3, id4)
     standings = playerStandings()
+    # print "STANDINGS AFTER: ", standings
     for (i, n, w, m) in standings:
         if m != 1:
             raise ValueError("Each player should have one match recorded.")
