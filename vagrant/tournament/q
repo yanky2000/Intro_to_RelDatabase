@@ -1,0 +1,12 @@
+                  List of relations
+ Schema |         Name          |   Type   |  Owner  
+--------+-----------------------+----------+---------
+ public | matches               | table    | vagrant
+ public | matches_match_id_seq  | sequence | vagrant
+ public | matches_p1_id_seq     | sequence | vagrant
+ public | matches_p2_id_seq     | sequence | vagrant
+ public | matches_winner_id_seq | sequence | vagrant
+ public | players               | table    | vagrant
+ public | players_id_seq        | sequence | vagrant
+(7 rows)
+
